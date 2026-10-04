@@ -2,7 +2,7 @@
 
 A Streamlit web application that downloads historical stock data with **yfinance** and forecasts future closing prices with **Prophet**.
 
-**Live App:** https://your-app-name.streamlit.app
+**Live App:** https://stockmarketdata.streamlit.app
 
 ## Features
 
@@ -34,7 +34,7 @@ stock-forecast-app/
 ## Run Locally
 
 ```bash
-git clone https://github.com/yourusername/stock-forecast-app.git
+git clone https://github.com/faridhasan2020/Project-04/stock-forecast-app.git
 cd stock-forecast-app
 
 python -m venv venv
