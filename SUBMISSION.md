@@ -1,7 +1,7 @@
-# Stock Price Forecasting App – [Your Name]
+# Stock Price Forecasting App –
 
 **GitHub Repository:**
-https://github.com/yourusername/stock-forecast-app
+https://github.com/faridhasan2020/Project-04/stock-forecast-app
 
 **Live Streamlit App:**
-https://your-app-name.streamlit.app
+https://stockmarketdata.streamlit.app
